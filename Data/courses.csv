@@ -1,0 +1,163 @@
+skill,course,platform,level,duration
+ATS,Applicant Tracking Systems Fundamentals,Coursera,Beginner,3 weeks
+AWS,AWS Cloud Practitioner Essentials,AWS Skill Builder,Beginner,6 weeks
+Adobe Illustrator,Adobe Illustrator for Beginners,Adobe Learn,Beginner,4 weeks
+Adobe Photoshop,Adobe Photoshop Tutorials,Adobe Learn,Beginner,4 weeks
+Algorithms,Algorithms Part I,Coursera,Intermediate,6 weeks
+Android Development,Android Basics with Compose,Google,Beginner,8 weeks
+Android Studio,Android Studio Guide,Google,Beginner,3 weeks
+Angular,Angular The Complete Guide,Udemy,Intermediate,8 weeks
+Ansible,Ansible for the Absolute Beginner,Udemy,Beginner,5 weeks
+Apache Airflow,Apache Airflow Fundamentals,Astronomer,Intermediate,4 weeks
+Apache Spark,Spark Programming in Python,Udemy,Intermediate,6 weeks
+Application Security,Application Security Fundamentals,OWASP,Intermediate,5 weeks
+Blog Writing,Writing for the Web,Coursera,Beginner,4 weeks
+Brand Design,Branding The Creative Journey,Coursera,Intermediate,4 weeks
+Business Analysis,Business Analysis Fundamentals,Coursera,Beginner,5 weeks
+Business Intelligence,Business Intelligence Concepts,Coursera,Beginner,4 weeks
+C++,C++ Programming for Beginners,Udemy,Beginner,6 weeks
+CI/CD,Continuous Integration and Continuous Delivery,Coursera,Intermediate,4 weeks
+CSS,CSS Tutorial,freeCodeCamp,Beginner,4 weeks
+Candidate Sourcing,Talent Sourcing Fundamentals,Coursera,Beginner,3 weeks
+Canva,Canva Design School,Canva,Beginner,2 weeks
+Cisco,Cisco Networking Basics,Cisco Networking Academy,Beginner,6 weeks
+Cloud Architecture,Cloud Architecture Fundamentals,Coursera,Intermediate,5 weeks
+Cloud Computing,Cloud Computing Fundamentals,Coursera,Beginner,6 weeks
+Cloud Migration,Cloud Migration Fundamentals,AWS Skill Builder,Intermediate,4 weeks
+Cloud Networking,Cloud Networking Fundamentals,Coursera,Intermediate,5 weeks
+Cloud Security,Cloud Security Fundamentals,Coursera,Intermediate,5 weeks
+Color Theory,Color Theory for Designers,Coursera,Beginner,3 weeks
+Communication,Improving Communication Skills,Coursera,Beginner,4 weeks
+Communication Skills,Effective Communication,Coursera,Beginner,4 weeks
+Content Creation,Content Strategy and Creation,Coursera,Beginner,4 weeks
+Content Marketing,Content Marketing,Coursera,Beginner,5 weeks
+Content Writing,Content Writing Fundamentals,Coursera,Beginner,4 weeks
+Copywriting,Copywriting for Beginners,Coursera,Beginner,4 weeks
+Critical Thinking,Critical Thinking for the Information Age,Coursera,Beginner,6 weeks
+Cybersecurity,Introduction to Cyber Security,OpenLearn,Beginner,5 weeks
+DAX,DAX in Power BI,Microsoft Learn,Intermediate,4 weeks
+Dart,Dart Programming Language,Dart,Beginner,4 weeks
+Data Analysis,Google Data Analytics,Coursera,Beginner,6 months
+Data Lakes,Data Lakes and Analytics,Coursera,Intermediate,4 weeks
+Data Pipelines,Building Data Pipelines,Coursera,Intermediate,5 weeks
+Data Structures,Data Structures and Algorithms,Coursera,Intermediate,6 weeks
+Data Visualization,Data Visualization with Tableau,Coursera,Beginner,5 weeks
+Data Warehousing,Data Warehousing Fundamentals,Coursera,Intermediate,5 weeks
+Database Administration,Database Administration Fundamentals,Coursera,Intermediate,5 weeks
+Database Design,Database Design,Coursera,Intermediate,4 weeks
+Database Development,Database Development Fundamentals,Udemy,Intermediate,5 weeks
+Database Management,Database Management Essentials,Coursera,Beginner,4 weeks
+Database Optimization,SQL Query Optimization,Udemy,Intermediate,4 weeks
+Database Security,Database Security Fundamentals,Coursera,Intermediate,4 weeks
+Deep Learning,Deep Learning Specialization,Coursera,Advanced,8 weeks
+Design Thinking,Design Thinking for Innovation,Coursera,Beginner,4 weeks
+DevOps,DevOps on AWS,Coursera,Intermediate,6 weeks
+Django,Django Web Framework,Coursera,Intermediate,5 weeks
+Docker,Docker Foundations Professional Certificate,Docker,Beginner,4 weeks
+ETL,ETL and Data Integration,Coursera,Intermediate,5 weeks
+Email Marketing,Email Marketing,Coursera,Beginner,4 weeks
+Encryption,Cryptography I,Coursera,Intermediate,6 weeks
+Ethical Hacking,Ethical Hacking Essentials,EC-Council,Intermediate,6 weeks
+Excel,Excel Skills for Business,Coursera,Beginner,6 months
+Express.js,Express.js Fundamentals,Udemy,Intermediate,4 weeks
+Feature Engineering,Feature Engineering for Machine Learning,Coursera,Intermediate,4 weeks
+Figma,Figma for UX Design,Coursera,Beginner,4 weeks
+Financial Analysis,Financial Analysis Fundamentals,Coursera,Intermediate,5 weeks
+Financial Modeling,Financial Modeling and Valuation,Coursera,Intermediate,6 weeks
+Financial Reporting,Financial Reporting,Coursera,Intermediate,5 weeks
+Firebase,Firebase in a Weekend,Google,Beginner,2 weeks
+Firewalls,Network Security and Firewalls,Coursera,Intermediate,4 weeks
+Flask,Python Flask for Web Development,Udemy,Intermediate,4 weeks
+Flutter,Flutter Development with Dart,Udemy,Intermediate,8 weeks
+Git,Introduction to Git and GitHub,Coursera,Beginner,3 weeks
+GitHub,Introduction to GitHub,GitHub Skills,Beginner,2 weeks
+GitHub Actions,GitHub Actions,GitHub Skills,Intermediate,3 weeks
+Google Ads,Google Ads Certifications,Google Skillshop,Beginner,4 weeks
+Google Analytics,Google Analytics Certification,Google Skillshop,Beginner,4 weeks
+Google Cloud Platform,Google Cloud Digital Leader,Google Cloud,Beginner,6 weeks
+Grafana,Grafana Fundamentals,Grafana Labs,Beginner,3 weeks
+Graphic Design,Graphic Design Specialization,Coursera,Beginner,6 months
+HRIS,Human Resources Information Systems,Coursera,Intermediate,4 weeks
+HTML,Responsive Web Design,freeCodeCamp,Beginner,8 weeks
+Identity and Access Management,Identity and Access Management Fundamentals,Coursera,Intermediate,4 weeks
+Illustration,Illustration for Designers,Domestika,Beginner,5 weeks
+Incident Response,Incident Response Fundamentals,Coursera,Intermediate,4 weeks
+Indexes,SQL Indexes and Query Optimization,Udemy,Intermediate,3 weeks
+Infrastructure as Code,Infrastructure as Code with Terraform,Coursera,Intermediate,5 weeks
+Interviewing,Interviewing and Resume Skills,Coursera,Beginner,3 weeks
+Java,Java Programming and Software Engineering Fundamentals,Coursera,Beginner,5 months
+Java Android,Android App Development with Java,Udemy,Intermediate,8 weeks
+JavaScript,JavaScript Algorithms and Data Structures,freeCodeCamp,Beginner,8 weeks
+Jenkins,Jenkins CI/CD,Udemy,Intermediate,4 weeks
+Kotlin,Kotlin for Java Developers,Coursera,Intermediate,5 weeks
+Kubernetes,Kubernetes for Developers,Coursera,Intermediate,6 weeks
+Linux,Linux Fundamentals,Linux Foundation,Beginner,6 weeks
+Machine Learning,Machine Learning,Coursera,Intermediate,11 weeks
+Matplotlib,Matplotlib Tutorial,Matplotlib,Beginner,2 weeks
+Microsoft Azure,Microsoft Azure Fundamentals,Microsoft Learn,Beginner,6 weeks
+Microsoft SQL Server,Querying Microsoft SQL Server,Microsoft Learn,Intermediate,5 weeks
+Mobile App Development,Mobile App Development with Flutter,Coursera,Intermediate,8 weeks
+Model Evaluation,Model Evaluation and Selection,Coursera,Intermediate,3 weeks
+Monitoring,Monitoring and Observability Fundamentals,Coursera,Intermediate,4 weeks
+MySQL,MySQL for Beginners,Udemy,Beginner,4 weeks
+Network Monitoring,Network Monitoring Fundamentals,Coursera,Intermediate,4 weeks
+Network Security,Network Security Fundamentals,Coursera,Intermediate,5 weeks
+Networking,Computer Networking,Coursera,Beginner,8 weeks
+Node.js,Server-side Development with NodeJS,Coursera,Intermediate,5 weeks
+NumPy,NumPy for Data Science,Coursera,Beginner,3 weeks
+Oracle Database,Oracle Database Foundations,Oracle University,Beginner,5 weeks
+Pandas,Data Analysis with Python,Coursera,Beginner,6 weeks
+Penetration Testing,Penetration Testing and Ethical Hacking,Coursera,Intermediate,6 weeks
+Plotly,Interactive Data Visualization with Plotly,Udemy,Intermediate,3 weeks
+PostgreSQL,PostgreSQL for Everybody,Udemy,Beginner,5 weeks
+Power BI,Microsoft Power BI Data Analyst,Microsoft Learn,Intermediate,6 weeks
+Power Query,Power Query,Microsoft Learn,Intermediate,3 weeks
+PowerShell,PowerShell Fundamentals,Microsoft Learn,Beginner,4 weeks
+Problem Solving,Creative Problem Solving,Coursera,Beginner,4 weeks
+Prometheus,Prometheus Fundamentals,Linux Foundation,Intermediate,3 weeks
+Prototyping,Prototyping for UX Design,Coursera,Beginner,4 weeks
+PyTorch,Deep Learning with PyTorch,Coursera,Intermediate,6 weeks
+Python,Python for Everybody,Coursera,Beginner,8 weeks
+Query Optimization,SQL Query Optimization,Udemy,Intermediate,4 weeks
+REST API,APIs and Web Services,Coursera,Intermediate,4 weeks
+React,Front-End Web Development with React,Coursera,Intermediate,6 weeks
+React Native,React Native,Coursera,Intermediate,6 weeks
+Recruitment,Recruiting Hiring and Onboarding Employees,Coursera,Beginner,4 weeks
+Requirements Analysis,Requirements Engineering,Coursera,Intermediate,5 weeks
+Requirements Gathering,Requirements Gathering Techniques,Coursera,Beginner,3 weeks
+Research Skills,Research Methods,Coursera,Beginner,5 weeks
+Responsive Web Design,Responsive Web Design,freeCodeCamp,Beginner,8 weeks
+Routing,Routing and Switching Essentials,Cisco Networking Academy,Intermediate,6 weeks
+SEM,Search Engine Marketing,Coursera,Beginner,4 weeks
+SEO,Search Engine Optimization Fundamentals,Coursera,Beginner,4 weeks
+SIEM,Security Information and Event Management,Coursera,Intermediate,5 weeks
+SQL,SQL for Data Science,Coursera,Beginner,4 weeks
+SRE,Site Reliability Engineering,Coursera,Intermediate,6 weeks
+Scikit-learn,Machine Learning with Scikit-learn,Udemy,Intermediate,5 weeks
+Seaborn,Data Visualization with Seaborn,Udemy,Beginner,2 weeks
+Security,Cybersecurity Fundamentals,Coursera,Beginner,5 weeks
+Security Monitoring,Security Monitoring,Coursera,Intermediate,4 weeks
+Security Testing,Security Testing Fundamentals,Coursera,Intermediate,4 weeks
+Shell Scripting,Shell Scripting,Coursera,Beginner,4 weeks
+Social Media Marketing,Social Media Marketing,Coursera,Beginner,5 weeks
+Statistics,Statistics with Python,Coursera,Beginner,5 weeks
+Stored Procedures,Stored Procedures in SQL,Udemy,Intermediate,3 weeks
+Storytelling,Storytelling and Visual Communication,Coursera,Beginner,4 weeks
+Switching,Switching Essentials,Cisco Networking Academy,Intermediate,5 weeks
+System Administration,System Administration and IT Infrastructure Services,Coursera,Intermediate,5 weeks
+TCP/IP,TCP/IP and Networking Fundamentals,Coursera,Beginner,4 weeks
+Tableau,Tableau for Data Visualization,Coursera,Beginner,5 weeks
+Talent Acquisition,Talent Acquisition,Coursera,Beginner,4 weeks
+TensorFlow,TensorFlow in Practice,Coursera,Intermediate,4 weeks
+Terraform,Terraform for Beginners,HashiCorp Developer,Beginner,4 weeks
+Threat Intelligence,Cyber Threat Intelligence,Coursera,Intermediate,5 weeks
+Triggers,SQL Triggers,Udemy,Intermediate,2 weeks
+Typography,Typography and Graphic Design,Coursera,Beginner,3 weeks
+UI Design,UI Design Fundamentals,Coursera,Beginner,5 weeks
+UX Design,Google UX Design,Coursera,Beginner,6 months
+User Research,User Experience Research and Design,Coursera,Beginner,5 weeks
+Virtualization,Virtualization Fundamentals,VMware,Beginner,4 weeks
+Vulnerability Assessment,Vulnerability Assessment and Penetration Testing,Coursera,Intermediate,5 weeks
+Web Application Security,Web Application Security,OWASP,Intermediate,5 weeks
+Windows Server,Windows Server Administration Fundamentals,Microsoft Learn,Intermediate,5 weeks
+Wireframing,Wireframing and Prototyping,Coursera,Beginner,3 weeks
