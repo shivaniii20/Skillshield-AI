@@ -134,22 +134,21 @@ st.divider()
 
 SKILLS_FILE = os.path.join(
     BASE_DIR,
-    "data",
+    "Data",
     "skills.csv"
 )
 
 JOB_ROLES_FILE = os.path.join(
     BASE_DIR,
-    "data",
-    "job_roles.csv"
+    "Data",
+    "Job_roles.csv"
 )
 
 COURSES_FILE = os.path.join(
     BASE_DIR,
-    "data",
+    "Data",
     "courses.csv"
 )
-
 
 # ============================================================
 # UPLOAD SECTION
